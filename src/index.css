@@ -1,0 +1,17 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.cv_cont {
+    padding-left: 230px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+#canvas {
+    width: 100%;
+}
